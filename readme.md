@@ -1,4 +1,4 @@
-# clipboard.js
+# clipboard.js without .eslintrc file
 
 ![Build Status](https://github.com/zenorocha/clipboard.js/workflows/build/badge.svg)
 ![Killing Flash](https://img.shields.io/badge/killing-flash-brightgreen.svg?style=flat)
